@@ -1,0 +1,39 @@
+button{
+    width: 100%;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border: none;
+    margin: 2px;
+}
+*{
+    box-sizing: border-box;
+}
+#menu{
+    width: 150px;
+    background-color: red;
+    border: none;
+    padding: ;
+    margin: 1px;
+}
+nav{
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+}
+.app h1{
+    color: blue;
+    font-size: 44px;
+    font-weight: 900px;
+    text-align: center;
+
+}
+table,tr,th, td{
+    border: 1px solid grey;
+}
+.container{
+    width: 80%;
+    height: auto;
+    
+    text-align: center;
+}
